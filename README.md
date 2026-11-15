@@ -121,3 +121,12 @@ Support this project by becoming a sponsor. Your logo/profile picture will show 
 ## Disclaimer
 
 I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer (Meta).
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/yangshun/tech-interview-handbook
